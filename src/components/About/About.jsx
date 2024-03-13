@@ -8,7 +8,7 @@ export const About = () => {
 			<h2 className={styles.title}>Sobre mí</h2>
 			<ul className={styles.aboutItems}>
 				<li className={styles.aboutItem}>
-					<img src={getImageUrl('about/cursorIcon.png')} alt='Cursor icon' />
+					<img src={getImageUrl('about/cursorIcon.webp')} alt='Cursor icon' />
 					<div className={styles.aboutItemText}>
 						<h3>Creatividad en acción</h3>
 						<p>
@@ -19,7 +19,7 @@ export const About = () => {
 					</div>
 				</li>
 				<li className={styles.aboutItem}>
-					<img src={getImageUrl('about/serverIcon.png')} alt='Server icon' />
+					<img src={getImageUrl('about/serverIcon.webp')} alt='Server icon' />
 					<div className={styles.aboutItemText}>
 						<h3>Aprendizaje continuo</h3>
 						<p>
@@ -30,7 +30,7 @@ export const About = () => {
 					</div>
 				</li>
 				<li className={styles.aboutItem}>
-					<img src={getImageUrl('about/uiIcon.png')} alt='UI icon' />
+					<img src={getImageUrl('about/uiIcon.webp')} alt='UI icon' />
 					<div className={styles.aboutItemText}>
 						<h3>Colaboración</h3>
 						<p>
