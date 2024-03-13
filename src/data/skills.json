@@ -1,0 +1,30 @@
+[
+	{
+		"title": "HTML",
+		"imageSrc": "skills/html.webp"
+	},
+	{
+		"title": "CSS",
+		"imageSrc": "skills/css.webp"
+	},
+	{
+		"title": "JavaScript",
+		"imageSrc": "skills/javascript.webp"
+	},
+	{
+		"title": "Java",
+		"imageSrc": "skills/java.webp"
+	},
+	{
+		"title": "MySql",
+		"imageSrc": "skills/mysql.webp"
+	},
+	{
+		"title": "React",
+		"imageSrc": "skills/react.webp"
+	},
+	{
+		"title": "Bootstrap",
+		"imageSrc": "skills/bootstrap.webp"
+	}
+]

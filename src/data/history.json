@@ -1,0 +1,36 @@
+[
+	{
+		"role": "Desarrollador Front-end / Técnico informático",
+		"organisation": "Vivusterra",
+		"startDate": "Oct, 2023",
+		"endDate": "Ene, 2024",
+		"experiences": [
+         "Desarrollé con éxito una aplicación híbrida para Android e iOS utilizando React Native y Expo, basada en una página web existente, ampliando la presencia en línea de la empresa.",
+         "Configuré módulos en PrestaShop para mejorar la funcionalidad del sitio web y la experiencia del usuario en la compra.",
+         "Gestioné la preparación de equipos informáticos, asegurando un entorno optimizado para facilitar las operaciones diarias.",
+         "Lideré la búsqueda y evaluación de un ERP, contribuyendo a la toma de decisiones informadas en la selección del sistema."
+      ]
+	},
+	{
+		"role": "Desarrollador Android",
+		"organisation": "Diginova",
+		"startDate": "Mar, 2023",
+		"endDate": "Jun, 2023",
+		"experiences": [
+         "Desarrollé y ayudé en la implementación de una aplicación móvil en Android con el objetivo de mejorar la gestión de productos en el almacén.",
+         "Implementé un sistema de lectura de códigos de barras en la aplicación para agilizar el proceso de registro de productos y mejorar la precisión en el control de inventario.",
+         "La integración de la funcionalidad de lectura de códigos de barras permitió una identificación rápida de productos, lo que resultó en una mejora significativa en la eficiencia operativa y la reducción de errores de registro."
+      ]
+	},
+	{
+		"role": "Técnico informático",
+		"organisation": "Labcheap",
+		"startDate": "Mar, 2019",
+		"endDate": "Jun, 2019",
+		"experiences": [
+			"Diagnóstico y resolución eficiente de problemas de hardware y software en sistemas informáticos para garantizar su funcionamiento óptimo y confiable.",
+			"Instalación de sistemas operativos y programas, además de mantenimiento preventivo para asegurar la eficiencia y seguridad del software, incluyendo la implementación de actualizaciones y parches para protección contra amenazas.",
+         "Experiencia en reballing de componentes electrónicos, utilizando técnicas especializadas y equipos de calor controlado para restaurar conexiones de soldadura en chips, garantizando su funcionalidad y rendimiento óptimo."
+		]
+	}
+]
