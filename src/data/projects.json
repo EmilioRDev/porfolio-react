@@ -1,26 +1,26 @@
 [
    {
-      "title": "Project A",
-      "imageSrc": "projects/project.webp",
-      "description": "This is a project made to learn the latest",
-      "skills": ["React", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Heroe SPA",
+      "imageSrc": "projects/heroeSPA.webp",
+      "description": "Una Single Page Application diseñada con React Router para gestionar rutas públicas y privadas. Permite búsquedas eficientes de héroes utilizando query params.",
+      "skills": ["React", "Vite", "Bootstrap"],
+      "demo": "https://heroes-spa-emilio.netlify.app",
+      "source": "https://github.com/EmilioRDev/heroes-spa"
    },
    {
-      "title": "Project B",
-      "imageSrc": "projects/project.webp",
-      "description": "This is a project made to learn the latest",
-      "skills": ["React", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Gif App",
+      "imageSrc": "projects/gifApp.webp",
+      "description": "Una aplicación web que utiliza la API de Giphy para buscar y mostrar GIFs. Se enfoca en el manejo de peticiones a través de la API.",
+      "skills": ["React", "Vite"],
+      "demo": "https://gif-expert-app-emiliodev.netlify.app/",
+      "source": "https://github.com/EmilioRDev/gif-expert-app"
    },
    {
-      "title": "Project C",
-      "imageSrc": "projects/project.webp",
-      "description": "This is a project made to learn the latest",
-      "skills": ["React", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Blackjack",
+      "imageSrc": "projects/blackjack.webp",
+      "description": "El proyecto abarca la manipulación del DOM, lógica de programación, manejo de eventos, entre otros conceptos clave.",
+      "skills": ["Javascript", "Vite", "Bootstrap"],
+      "demo": "https://blackjack-jesr.netlify.app/",
+      "source": "https://github.com/EmilioRDev/js-blackjack-vite"
    }
 ]
