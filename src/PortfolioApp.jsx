@@ -1,5 +1,5 @@
 import styles from './App.module.css'
-import { About, Experience, Hero, Navbar, Projects, Skills } from './components'
+import { About, Contact, Experience, Hero, Navbar, Projects, Skills } from './components'
 
 export const PortfolioApp = () => {
   return (
@@ -10,6 +10,7 @@ export const PortfolioApp = () => {
       <Skills />
       <Experience />
       <Projects />
+      <Contact />
     </div>
   )
 }
