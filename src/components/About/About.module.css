@@ -56,7 +56,7 @@
    font-size: 25px;
 }
 
-@media screen and (max-width: 769px) {
+@media screen and (max-width: 835px) {
    .container {
       background-color: transparent;
       padding-left: 0;
@@ -71,4 +71,8 @@
       padding-left: 0;
       padding-right: 0;
    }
+
+	.aboutItem:hover  {
+		background-size: 0 100%;
+	}
 }

@@ -30,7 +30,7 @@
 }
 
 .skillImageContainer {
-	background-color: var(--color-secondary);
+	background: radial-gradient(circle, rgba(25,55,109,0.2) 0%, rgb(33, 68, 132) 100%);
 	border-radius: 100%;
 	display: flex;
 	align-items: center;
